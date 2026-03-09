@@ -82,16 +82,6 @@ php artisan serve
 
 ---
 
-## 🔑 Default Login
-
-| Role | Credential |
-|------|-----------|
-| **Admin** | username: `admin` / password: `admin123` |
-| **Mahasiswa** | NIM: `22.240.0007` / password: `password` |
-| **Dosen** | NIDN: `0601018501` / password: `dosen123` |
-
----
-
 ## 📡 API Documentation
 
 ### Base URL
