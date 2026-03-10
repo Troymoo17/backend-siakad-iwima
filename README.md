@@ -73,7 +73,13 @@ php artisan storage:link
 php artisan serve
 # Server berjalan di http://localhost:8000
 ```
+## 🔐 Default Login
 
+### Admin Panel
+| Field | Value |
+|-------|-------|
+| Username | `admin` |
+| Password | `admin123` |
 ---
 
 ## 📡 API Documentation
@@ -103,7 +109,6 @@ POST   /api/v1/auth/refresh        Refresh token
 ```
 GET    /api/v1/dashboard           Summary dashboard
 GET    /api/v1/profil              Data diri lengkap
-PUT    /api/v1/profil              Update profil
 ```
 
 #### Akademik
